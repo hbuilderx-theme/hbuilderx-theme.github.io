@@ -1,8 +1,6 @@
-
 {
     "theme-custom.name": "vscode-light",
-    "theme-custom.author": "xiaomimi",
-    "theme-custom.version": "0.0.4",
+    "theme-custom.updatetime": "2023-03-23",
     "editor.colorScheme": "Default",
     "workbench.colorCustomizations": {
         "[Default]": {
